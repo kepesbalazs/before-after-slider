@@ -12,6 +12,7 @@ img {
 }
 
 main {
+    padding: 20px;
     display: grid;
     place-items: center;
     min-height: 100vh;
